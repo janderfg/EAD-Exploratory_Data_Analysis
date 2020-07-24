@@ -1,2 +1,2 @@
-# EAD-Exploratory_Data_Analysis
+# EAD-Exploratory Data Analysis - Análise Exploratória
 EAD - Exploratory Data Analysis
