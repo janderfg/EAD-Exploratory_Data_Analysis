@@ -7,9 +7,5 @@ A Análise Exploratória é uma das etapas mais importantes, tanto para Analista
 Também realizei Feature Engineering que é um processo de utilizar o conhecimento de negócio para extrair novas informações do conjunto de dados. Esta técnica tem como objetivo nos ajudar a aprofundar nos dados, obter insights e também é muito utilizado para melhorar a performance de modelo de Machine Learning.
 
 
-![Test Image 4](https://github.com/janderfg/EAD-Exploratory_Data_Analysis/blob/master/images/graph.png?raw=true)
+![Test Image 2](https://github.com/janderfg/EAD-Exploratory_Data_Analysis/blob/master/images/graph.png?raw=true)
 
-
-
-![GitHub Logo](https://github.com/janderfg/EAD-Exploratory_Data_Analysis/blob/master/images/graph.png?raw=true)
-Format: ![Alt Text](url)
