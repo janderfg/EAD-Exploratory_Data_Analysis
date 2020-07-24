@@ -6,8 +6,11 @@ A **Análise Exploratória** é uma das etapas mais importantes, tanto para Anal
 
 Também realizei **Feature Engineering** que é um processo de utilizar o conhecimento de negócio para extrair novas informações do conjunto de dados. Esta técnica tem como objetivo nos ajudar a aprofundar nos dados, obter insights e também é muito utilizado para melhorar a performance de modelo de Machine Learning.
 
-Exemplo\
+### Exemplo de gráfico que exibe as diferenças do preço médio por tipo de carroceira:
 
+Note que os veículos conversíveis são os que possuem valores médios mais altos, ao passo que veículos do tipo hatchback costumam ser os mais baratos.
 
 ![Test Image 2](https://github.com/janderfg/EAD-Exploratory_Data_Analysis/blob/master/images/graph.png?raw=true)
 
+
+Estas e outras análises você encontra no meu notebook criado em Python através do seguinte link: [Convert columns (Continuous Data to Categorical Data):](https://github.com/janderfg/Articles/blob/master/Highlight_Missing_Values.ipynb "Github")
