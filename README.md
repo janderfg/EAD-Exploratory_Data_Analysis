@@ -1,6 +1,6 @@
 # EAD - Exploratory Data Analysis - Análise Exploratória de Dados
 
-Este projeto é baseado em um dataset público chamado Automobile Data Set disponível no site da UCI através do seguinte [link.](https://archive.ics.uci.edu/ml/datasets/Automobile)
+Este projeto é baseado em um dataset público chamado _Automobile Data Set_ disponível no site da UCI através do seguinte [link.](https://archive.ics.uci.edu/ml/datasets/Automobile)
 
 A **Análise Exploratória** é uma das etapas mais importantes, tanto para Analistas de Dados, quanto para Cientista de Dados. Nesta etapa visualizamos como nossos dados estão distribuídos, se existem valores faltantes, se existem valores discrepantes (outliers), buscamos validar se os dados "fazem sentido". É através desta etapa que já podemos tirar alguns insights ou prepararmos para algoritmos de Machine Learning se necessário.
 
