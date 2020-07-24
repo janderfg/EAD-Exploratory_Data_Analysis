@@ -12,7 +12,7 @@ Note que os veículos conversíveis são os que possuem valores médios mais alt
 
 ![Test Image 2](https://github.com/janderfg/EAD-Exploratory_Data_Analysis/blob/master/images/graph.png?raw=true)
 
-Note que existe uma relação entre o tamanho do motor e o preço do automóvel, você verá que tanto o tamanho do motor quanto outras variáveis influenciam no preço do automóvel.
+Note que existe relação entre o tamanho do motor e o preço do automóvel, você verá que tanto o tamanho do motor quanto outras variáveis influenciam no preço do automóvel.
 
 ![Test Image 2](https://github.com/janderfg/EAD-Exploratory_Data_Analysis/blob/master/images/graph02.png?raw=true)
 
