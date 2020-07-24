@@ -11,3 +11,5 @@ Também realizei Feature Engineering que é um processo de utilizar o conhecimen
 
 
 
+![GitHub Logo](https://github.com/janderfg/EAD-Exploratory_Data_Analysis/blob/master/images/graph.png?raw=true)
+Format: ![Alt Text](url)
