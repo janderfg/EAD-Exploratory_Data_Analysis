@@ -13,4 +13,4 @@ Note que os veículos conversíveis são os que possuem valores médios mais alt
 ![Test Image 2](https://github.com/janderfg/EAD-Exploratory_Data_Analysis/blob/master/images/graph.png?raw=true)
 
 
-Estas e outras análises você encontra no meu notebook criado em Python através do seguinte link: [Convert columns (Continuous Data to Categorical Data):](https://github.com/janderfg/Articles/blob/master/Highlight_Missing_Values.ipynb "Github")
+Estas e outras análises você encontra no meu notebook criado em Python através do seguinte [link:](https://github.com/janderfg/EAD-Exploratory_Data_Analysis/blob/master/EAD-Exploratory_Data_Analysis-Cars_Dataset.ipynb "Github")
