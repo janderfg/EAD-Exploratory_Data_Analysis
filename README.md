@@ -20,6 +20,6 @@ Note que existe relação entre o tamanho do motor e o preço do automóvel, voc
 Estas e outras análises você encontra no meu notebook criado em Python através do seguinte [link](https://github.com/janderfg/EAD-Exploratory_Data_Analysis/blob/master/EAD-Exploratory_Data_Analysis-Cars_Dataset.ipynb "Github").
 
 
-Me adicione no [LinkedIn](https://www.linkedin.com/posts/janderfg_pandas-python-datascience-activity-6691690291704971265-56Km-), estou sempre postando dicas e você também poderá conhecer mais da minha experiência profissional e como posso te ajudar a trabalhar seus dados.
+Me adicione no [LinkedIn](https://www.linkedin.com/in/janderfg/), estou sempre postando dicas e você também poderá conhecer mais da minha experiência profissional e como posso te ajudar a trabalhar seus dados.
 
 
